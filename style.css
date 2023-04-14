@@ -1,0 +1,40 @@
+/* SETUP */
+
+html, body {
+  scroll-behavior: smooth;
+  margin: 0;
+  font-family: 'Nunito';
+  font-size: 20px;
+  background-color: #F0F0F0;
+}
+
+.main {
+  padding: 10px;
+  color: #000000;
+}
+
+.header {
+  width: 100%;
+  height: 5%;
+  color: #FFFFFF;
+  background-color: #FC7A57;
+}
+
+/* STYLES */
+
+.heading {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.padding {
+  padding: 5px;
+}
+
+button {
+  color: #FFFFFF;
+  background-color: #FC7A57;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+}
